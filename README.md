@@ -14,6 +14,8 @@ Under documentation, the BOM (Bill Off Materials) and the Application note can b
 In the 3D design folder, the whole 3D design of the case can be found.
 
 ## 3D design
+(more pictures can be found under '3D-design/Pictures_of_the_design)
+
 ![Schermafbeelding 2023-05-29 215436](https://github.com/JasperMaes01/Project_Design_Soldering_Station/assets/114076064/5d3e94ec-1c86-413a-9339-c4f9f798cbf2)
 
 ^^The front view of the 3D design.
